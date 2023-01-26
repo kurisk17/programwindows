@@ -1,0 +1,130 @@
+2018 低下量合計
+平均値 negative 71511962.4825   positive 66106390.5507
+中央値 negative 71211665.0   positive 68443150.0
+標準偏差 negative 17592739.1269   positive 17143205.5847
+四分位範囲 negative 22606372.0   positive 24184767.5
+2019 低下量合計
+平均値 negative 54500112.8406   positive 54935095.5257
+中央値 negative 50689460.0   positive 51511970.0
+標準偏差 negative 12889380.0016   positive 12938866.609
+四分位範囲 negative 20058590.0   positive 21110975.0
+2020 低下量合計
+平均値 negative 51970717.991   positive 56118824.7233
+中央値 negative 48134370.0   positive 55814670.0
+標準偏差 negative 18868399.2259   positive 18887371.1353
+四分位範囲 negative 30640030.0   positive 32398345.0
+2021 低下量合計
+平均値 negative 42228264.7599   positive 45067159.7339
+中央値 negative 43067970.0   positive 46294680.0
+標準偏差 negative 9104756.7905   positive 10735674.3711
+四分位範囲 negative 14333050.0   positive 18220490.0
+2022 低下量合計
+平均値 negative 46077942.2558   positive 44147211.3056
+中央値 negative 45538940.0   positive 42101020.0
+標準偏差 negative 12419722.146   positive 10975230.907
+四分位範囲 negative 23030490.0   positive 19193190.0
+2018 intra_volume（MWh/h）
+平均値 negative 86406.8764   positive 135293.9353
+中央値 negative 62750.0   positive 105650.0
+標準偏差 negative 78491.0078   positive 116630.9547
+四分位範囲 negative 86137.5   positive 118875.0
+2019 intra_volume（MWh/h）
+平均値 negative 104381.4212   positive 139545.6963
+中央値 negative 77750.0   positive 100400.0
+標準偏差 negative 90987.3231   positive 135639.956
+四分位範囲 negative 104412.5   positive 140925.0
+2020 intra_volume（MWh/h）
+平均値 negative 188810.746   positive 258336.0896
+中央値 negative 143000.0   positive 196950.0
+標準偏差 negative 159268.2098   positive 218208.8627
+四分位範囲 negative 189237.5   positive 242737.5
+2021 intra_volume（MWh/h）
+平均値 negative 181986.5107   positive 246056.8693
+中央値 negative 153400.0   positive 211025.0
+標準偏差 negative 129746.4262   positive 174322.0375
+四分位範囲 negative 167925.0   positive 207725.0
+2022 intra_volume（MWh/h）
+平均値 negative 240756.463   positive 305129.1986
+中央値 negative 191600.0   positive 266000.0
+標準偏差 negative 177761.9217   positive 191897.0176
+四分位範囲 negative 210400.0   positive 230050.0
+2018 spot_volume(kWh)
+平均値 negative 10601731.9618   positive 11185828.884
+中央値 negative 9120000.0   positive 9736500.0
+標準偏差 negative 3273193.1037   positive 3293771.2807
+四分位範囲 negative 5578512.5   positive 5792950.0
+2019 spot_volume(kWh)
+平均値 negative 16263707.0833   positive 16313241.7865
+中央値 negative 16234750.0   positive 16302500.0
+標準偏差 negative 2162380.5975   positive 2316584.7048
+四分位範囲 negative 2898637.5   positive 3386662.5
+2020 spot_volume(kWh)
+平均値 negative 17643144.5929   positive 17509151.4532
+中央値 negative 17529875.0   positive 17369650.0
+標準偏差 negative 2269017.2714   positive 2610495.9114
+四分位範囲 negative 3075312.5   positive 3289312.5
+2021 spot_volume(kWh)
+平均値 negative 18558190.9447   positive 18556891.0436
+中央値 negative 18386950.0   positive 18216925.0
+標準偏差 negative 2835948.3881   positive 2418427.5368
+四分位範囲 negative 3694100.0   positive 3015025.0
+2022 spot_volume(kWh)
+平均値 negative 17619710.3613   positive 18427333.9659
+中央値 negative 17658500.0   positive 18319350.0
+標準偏差 negative 2548049.8686   positive 2601696.3618
+四分位範囲 negative 3587250.0   positive 3557425.0
+2018 風力絶対値誤差合算(実績-想定)(kWh)
+平均値 negative 47007.5112   positive 49515.1883
+中央値 negative 40120.25   positive 41461.06
+標準偏差 negative 27969.7841   positive 32546.0666
+四分位範囲 negative 33766.195   positive 37610.6164
+2019 風力絶対値誤差合算(実績-想定)(kWh)
+平均値 negative 47987.754   positive 47642.9816
+中央値 negative 42023.1366   positive 41767.0818
+標準偏差 negative 27928.614   positive 28302.869
+四分位範囲 negative 35477.4441   positive 35167.3512
+2020 風力絶対値誤差合算(実績-想定)(kWh)
+平均値 negative 46782.8135   positive 48829.2704
+中央値 negative 39468.4933   positive 42303.3632
+標準偏差 negative 29625.0327   positive 29920.6457
+四分位範囲 negative 37750.3547   positive 36734.9455
+2021 風力絶対値誤差合算(実績-想定)(kWh)
+平均値 negative 47633.918   positive 51459.2361
+中央値 negative 43185.4313   positive 47666.763
+標準偏差 negative 26811.1313   positive 26429.9749
+四分位範囲 negative 34725.9534   positive 35289.3141
+2022 風力絶対値誤差合算(実績-想定)(kWh)
+平均値 negative 53311.0105   positive 52672.3915
+中央値 negative 49336.7014   positive 46961.0692
+標準偏差 negative 29149.1789   positive 31271.6981
+四分位範囲 negative 39116.8585   positive 34594.6162
+2018 太陽光絶対値誤差合算(実績-想定)(kWh)
+平均値 negative 459510.5798   positive 460958.3275
+中央値 negative 152737.5443   positive 122568.05
+標準偏差 negative 645966.707   positive 643069.5333
+四分位範囲 negative 715412.119   positive 751154.7749
+2019 太陽光絶対値誤差合算(実績-想定)(kWh)
+平均値 negative 434628.1862   positive 455065.7192
+中央値 negative 4524.623   positive 130171.4501
+標準偏差 negative 660494.5173   positive 642694.5466
+四分位範囲 negative 688206.7262   positive 723678.9471
+2020 太陽光絶対値誤差合算(実績-想定)(kWh)
+平均値 negative 392009.3128   positive 414330.5612
+中央値 negative 10309.9295   positive 82537.7222
+標準偏差 negative 576865.9167   positive 584923.2081
+四分位範囲 negative 669359.8652   positive 679352.6531
+2021 太陽光絶対値誤差合算(実績-想定)(kWh)
+平均値 negative 382963.3394   positive 350529.7774
+中央値 negative 25597.9149   positive 29246.0702
+標準偏差 negative 544523.1841   positive 509026.8345
+四分位範囲 negative 633868.2862   positive 564377.1
+2022 太陽光絶対値誤差合算(実績-想定)(kWh)
+平均値 negative 298502.355   positive 476638.1662
+中央値 negative 0.0   positive 268068.7925
+標準偏差 negative 509538.6787   positive 581941.5621
+四分位範囲 negative 425858.0114   positive 787357.9295
+2022 広域予備率平均値(%)
+平均値 negative 23.5059   positive 23.4766
+中央値 negative 21.9828   positive 22.2589
+標準偏差 negative 6.7882   positive 6.6254
+四分位範囲 negative 7.9306   positive 8.3397
